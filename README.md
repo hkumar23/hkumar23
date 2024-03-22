@@ -1,4 +1,4 @@
-<h2>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Harsh Kumar</h2>
+<h2>Hi, I'm Harsh Kumar</h2>
 
 <!--
 **hkumar23/hkumar23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
