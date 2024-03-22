@@ -6,7 +6,7 @@
 <br>
 🛠️ Currently working on BaniyaBuddy
 <br>
-📫 How to reach me: dtuharshkumar@gmail.com
+📫 How to reach me: [dtuharshkumar@gmail.com](mailto:dtuharshkumar@gmail.com)
 <!--
 **hkumar23/hkumar23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
