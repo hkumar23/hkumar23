@@ -1,4 +1,4 @@
-<h2>Hi, I'm Harsh Kumar</h2>
+<h2>Hi, I'm Harsh Kumar 👨‍💻</h2>
 
 <!--
 **hkumar23/hkumar23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
