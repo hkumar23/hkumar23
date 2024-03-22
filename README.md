@@ -1,9 +1,12 @@
 # Hi, I'm Harsh Kumar 👨‍💻</h2>
 <br>
 🎓 Passionate Software Engineering Undergrad
+<br>
 📱 Flutter Developer
+<br>
 🛠️ Currently working on BaniyaBuddy
-📫 How to reach me: [dtuharshkumar@gmail.com](mailto:dtuharshkumar@gmail.com)
+<br>
+📫 How to reach me: <p><a href="mailto:dtuharshkumar@gmail.com">dtuharshkumar@gmail.com</a></p>
 <!--
 **hkumar23/hkumar23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
