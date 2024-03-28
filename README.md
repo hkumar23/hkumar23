@@ -26,16 +26,16 @@
 [![Notepad++](https://img.shields.io/badge/-Notepad++-grey?logo=notepadplusplus&logoColor=white)](https://github.com/hkumar23)
 [![Trello](https://img.shields.io/badge/Trello-327FC7.svg?logo=trello&logoColor=white)](https://github.com/hkumar23)
 [![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white)](https://github.com/hkumar23) [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)](https://github.com/hkumar23) [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)](https://github.com/hkumar23)
-<!-- # 📊 GitHub Stats:
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hkumar23&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hkumar23&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hkumar23&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hkumar23&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark) -->
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark) 
 
-<!-- ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=hkumar23&limit=5&theme=onedark&combine_all_yearly_contributions=true) -->
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=hkumar23&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
-<!-- ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/> -->
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
