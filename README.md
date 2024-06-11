@@ -5,12 +5,13 @@
 - 📫 How to reach me **dtuharshkumar@gmail.com**
 
 ## 💻 Programming and markup languages:
-[<img src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white" height="25" alt="C"/>](https://github.com/hkumar23)
-[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)](https://github.com/hkumar23) 
-[![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)](https://github.com/hkumar23)
-[![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white)](https://github.com/hkumar23)
-[![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)](https://github.com/hkumar23)
-[![Markdown](https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)](https://github.com/hkumar23)
+[<img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white" height="24"/>](https://github.com/hkumar23)
+[<img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white" height="24"/>](https://github.com/hkumar23)
+[<img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white" height="24"/>](https://github.com/hkumar23)
+[<img alt="Dart" src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white" height="24"/>](https://github.com/hkumar23)
+[<img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" height="24"/>](https://github.com/hkumar23)
+[<img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white" height="24"/>](https://github.com/hkumar23)
+
 ## 📚 Frameworks and libraries
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)](https://github.com/hkumar23)
 [![Material Design](https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white)](https://github.com/hkumar23)
