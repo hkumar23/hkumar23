@@ -1,19 +1,16 @@
 # Hi, I'm Harsh Kumar 🧑‍💻:
 - 🎓 Passionate Software Engineering Undergrad
-
 - 🔭 I’m currently working on [BaniyaBuddy](https://github.com/hkumar23/baniyabuddy)
-
 - 📱 Flutter Developer
-
 - 📫 How to reach me **dtuharshkumar@gmail.com**
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https.hxrsh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-kumar-38a14422a) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hxrsh_kumar) 
-
 ## 💻 Programming and markup languages:
-[![C](https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white)](https://github.com/hkumar23) [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)](https://github.com/hkumar23) [![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)](https://github.com/hkumar23)
-[![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)](https://github.com/hkumar23) [![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)](https://github.com/hkumar23)
+[<img src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white" height="25" alt="C"/>](https://github.com/hkumar23)
+[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)](https://github.com/hkumar23) 
+[![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)](https://github.com/hkumar23)
+[![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white)](https://github.com/hkumar23)
+[![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)](https://github.com/hkumar23)
+[![Markdown](https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)](https://github.com/hkumar23)
 ## 📚 Frameworks and libraries
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)](https://github.com/hkumar23)
 [![Material Design](https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white)](https://github.com/hkumar23)
@@ -35,6 +32,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hkumar23&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hkumar23&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark) 
 
@@ -43,3 +41,8 @@
 
 <!--### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/> -->
+<p align="center">
+    <a href="https://instagram.com/https.hxrsh" target="blank"><img align="center" src="https://freelogopng.com/images/all_img/1658588965instagram-logo-png-transparent-background.png" alt="hkumar23" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://linkedin.com/in/harsh-kumar-38a14422a" target="blank"><img align="center" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG32.png" alt="hkumar23" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://x.com/hxrsh_kumar" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" alt="hkumar23" height="30" width="30" /></a>
+</p>
