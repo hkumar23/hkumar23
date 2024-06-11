@@ -1,5 +1,5 @@
 <!-- # Hi, I'm Harsh Kumar -->
-# Hi!, I'm Harsh Kumar [<img src="https://media.tenor.com/KvRIHOyJN-sAAAAi/gears-spinning.gif" width="35">](#) </h2><br>
+# Hi!, I'm Harsh Kumar [<img src="https://media.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" width="35">](#) </h2><br>
 - 🎓 Passionate Software Engineering Undergrad
 - 🔭 I’m currently working on [BaniyaBuddy](https://github.com/hkumar23/baniyabuddy)
 - 📱 Flutter Developer
