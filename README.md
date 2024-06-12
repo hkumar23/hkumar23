@@ -7,10 +7,10 @@
 
 ## 💻 Programming and markup languages:
 [<img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white" height="24"/>](#)
-[<img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white" height="24"/>](#)
-[<img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white" height="24"/>](#)
-[<img alt="Dart" src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white" height="24"/>](#)
 [<img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" height="24"/>](#)
+[<img alt="Dart" src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white" height="24"/>](#)
+[<img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white" height="24"/>](#)
+[<img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white" height="24"/>](#)
 [<img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white" height="24"/>](#)
 
 ## 📚 Frameworks and libraries
@@ -43,13 +43,13 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hkumar23&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-### ✍️ Random Dev Quote
+<!--### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark) 
 
-<!--### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=hkumar23&limit=5&theme=onedark&combine_all_yearly_contributions=true)-->
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=hkumar23&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
-<!--### 😂 Random Dev Meme
+### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/> -->
 <p align="center">
     <a href="https://instagram.com/https.hxrsh" target="blank"><img align="center" src="https://freelogopng.com/images/all_img/1658588965instagram-logo-png-transparent-background.png" alt="hkumar23" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
