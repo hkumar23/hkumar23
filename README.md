@@ -53,7 +53,7 @@
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/> -->
 <p align="center">
-    <a href="https://instagram.com/https.hxrsh" target="blank"><img align="center" src="https://freelogopng.com/images/all_img/1658588965instagram-logo-png-transparent-background.png" alt="hkumar23" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://linkedin.com/in/harsh-kumar-38a14422a" target="blank"><img align="center" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG32.png" alt="hkumar23" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://instagram.com/haarshthisside" target="blank"><img align="center" src="https://freelogopng.com/images/all_img/1658588965instagram-logo-png-transparent-background.png" alt="hkumar23" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://linkedin.com/in/hkumar2way" target="blank"><img align="center" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG32.png" alt="hkumar23" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://x.com/hxrsh_kumar" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" alt="hkumar23" height="30" width="30" /></a>
 </p>
