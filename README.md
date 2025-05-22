@@ -1,7 +1,7 @@
 <!-- # Hi, I'm Harsh Kumar -->
 # Hi!, I'm Harsh Kumar [<img src="https://media.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" width="35">](#) </h2><br>
 - 🎓 Passionate Software Engineering Undergrad
-- 🔭 I’m currently working on [BaniyaBuddy](https://github.com/hkumar23/baniyabuddy)
+- 🔭 I’m currently working on [InvoiceOwl](https://github.com/hkumar23/invoiceowl)
 - 📱 Skilled Flutter Developer
 - 📫 How to reach me **dtuharshkumar@gmail.com**
 
