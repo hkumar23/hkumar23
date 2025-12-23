@@ -3,7 +3,7 @@
 - 🎓 Passionate Software Engineering Undergrad
 - 🔭 I’m currently working on [InvoiceOwl](https://github.com/hkumar23/invoiceowl)
 - 📱 Skilled Flutter Developer
-- 📫 How to reach me **dtuharshkumar@gmail.com**
+- 📫 How to reach me **hxrsh.dev@gmail.com**
 
 ## 💻 Programming and markup languages:
 [<img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white" height="24"/>](#)
