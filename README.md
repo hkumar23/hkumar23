@@ -2,7 +2,7 @@
 # Hi!, I'm Harsh Kumar [<img src="https://media.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" width="35">](#) </h2><br>
 - 🎓 Passionate Software Engineering Undergrad
 - 🔭 I’m currently working on [InvoiceOwl](https://github.com/hkumar23/invoiceowl)
-- 📱 Skilled Flutter Developer
+- 📱  Skilled Mobile App Developer
 - 📫 How to reach me **hxrsh.dev@gmail.com**
 
 ## 💻 Programming and markup languages:
